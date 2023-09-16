@@ -1,2 +1,3 @@
 # Pokedex-js
-#100diasdecodigo
+
+Projeto criado em meio ao desafio #100diasdecodigo, será concluido até o final do desafio!
