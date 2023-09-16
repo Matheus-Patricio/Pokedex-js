@@ -1,0 +1,20 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+:root {
+    --green:#12bb80;
+    --white: #FFF;
+    --limegreen:rgb(93, 240, 137);
+    --gray:#e5ecfa;
+}
+
+body {
+    background-color: var(--gray);
+}
+.content {
+    padding: 1rem;
+    background-color: #FFF;
+    height: 100vh;
+}
